@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryaputra</h1>
 <h3 align="center">A Software Engineering Student from Indonesia University of Education</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/aryaptrha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryaptrha)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m currently learning **C#, Unity, Photon Fusion**
 
