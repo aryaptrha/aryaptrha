@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aryaputra</h1>
 <h3 align="center">A Software Engineering Student from Indonesia University of Education</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryaptrha)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 I’m currently learning **C#, Unity, Photon Fusion**
 
 - 📫 How to reach me **aryaputrahaidar@gmail.com**
