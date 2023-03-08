@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aryaputra haidar akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryaputra haidar akbar" height="30" width="40" /></a>
-<a href="https://fb.com/aryaputra haidar akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryaputra haidar akbar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aryaputra-haidar-akbar-b122811b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryaputra-haidar-akbar-b122811b7" height="30" width="40" /></a>
+<a href="https://fb.com/aryaputra.akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aryaputra.akbar" height="30" width="40" /></a>
 <a href="https://instagram.com/aryaptrha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryaptrha" height="30" width="40" /></a>
 <a href="https://discord.gg/668291902948507668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="668291902948507668" height="30" width="40" /></a>
 </p>
