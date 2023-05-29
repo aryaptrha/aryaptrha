@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryaputra</h1>
 <h3 align="center">A Software Engineering Student from Indonesia University of Education</h3>
 
-- 🌱 I’m currently learning **C#, Unity, Photon Fusion**
+- 🌱 I’m currently learning **Software Quality Assurance, Selenium Automation, API Testing, Unity**
 
 - 📫 How to reach me **aryaputrahaidar@gmail.com**
 
