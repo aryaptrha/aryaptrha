@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryaputra</h1>
-<h3 align="center">A Software Engineering Student from Indonesia University of Education</h3>
+<h3 align="center">A Software Engineering Fresh Graduate from Indonesia University of Education</h3>
 
 - 🌱 I’m currently learning **Web Programming with ASP.NET Framework** on my Internship at PT Mattel Indonesia
 
