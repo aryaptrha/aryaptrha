@@ -10,7 +10,7 @@
 
 <h3 align="center">Aryaputra Haidar Akbar</h3>
 
-<p align="center"><sub>Learning in public. TypeScript, Next.js, Java, and whatever the current project demands.</sub></p>
+<p align="center"><sub>Learning in public. .NET, Next.js, Java, TypeScript, and whatever the current project demands.</sub></p>
 
 <br>
 
