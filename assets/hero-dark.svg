@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="The same tic-tac-toe grid, already finished. The circles have won on the diagonal.">
+  <!-- Dark theme: the same grid, same geometry, game already over. It won. -->
+  <g stroke="#e8e8ee" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.55">
+    <line x1="558" y1="84" x2="558" y2="336"/>
+    <line x1="642" y1="84" x2="642" y2="336"/>
+    <line x1="474" y1="168" x2="726" y2="168"/>
+    <line x1="474" y1="252" x2="726" y2="252"/>
+  </g>
+  <g stroke="#e8e8ee" stroke-width="3.5" stroke-linecap="round" fill="none" opacity="0.42">
+    <line x1="576" y1="102" x2="624" y2="150"/>
+    <line x1="624" y1="102" x2="576" y2="150"/>
+    <line x1="660" y1="102" x2="708" y2="150"/>
+    <line x1="708" y1="102" x2="660" y2="150"/>
+    <line x1="492" y1="186" x2="540" y2="234"/>
+    <line x1="540" y1="186" x2="492" y2="234"/>
+  </g>
+  <g stroke="#e8e8ee" stroke-width="3.5" fill="none">
+    <circle cx="516" cy="126" r="25"/>
+    <circle cx="600" cy="210" r="25"/>
+    <circle cx="684" cy="294" r="25"/>
+  </g>
+  <line x1="503" y1="113" x2="697" y2="307" stroke="#e8e8ee" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+</svg>
