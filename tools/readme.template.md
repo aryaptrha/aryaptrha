@@ -35,7 +35,3 @@
 <sub>The board above is not JavaScript, and there is no Action behind it. Tic-tac-toe was solved ahead of time and emitted as a filesystem: {{PAGES}} committed pages, one per position, every move an ordinary link. GitHub's file viewer is the entire runtime.</sub>
 
 <sub>{{DECISIONS}} decision states &middot; {{ENDINGS}} endings &middot; {{DRAWS}} of them a draw, which is the best result available to you &middot; <a href="{{BASE}}/tools/README.md">how it compiles</a></sub>
-
-### Elsewhere
-
-<sub><a href="mailto:{{EMAIL}}">{{EMAIL}}</a></sub>

@@ -39,7 +39,3 @@
 <sub>The board above is not JavaScript, and there is no Action behind it. Tic-tac-toe was solved ahead of time and emitted as a filesystem: 424 committed pages, one per position, every move an ordinary link. GitHub's file viewer is the entire runtime.</sub>
 
 <sub>208 decision states &middot; 216 endings &middot; 18 of them a draw, which is the best result available to you &middot; <a href="https://github.com/aryaptrha/aryaptrha/blob/main/tools/README.md">how it compiles</a></sub>
-
-### Elsewhere
-
-<sub><a href="mailto:{{EMAIL}}">{{EMAIL}}</a></sub>
